@@ -1,0 +1,4 @@
+config/firebase-service-account.json
+.env
+get_token.html
+node_modules
